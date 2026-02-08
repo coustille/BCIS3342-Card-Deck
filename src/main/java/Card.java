@@ -1,6 +1,6 @@
 /****************************************************************
 * Card.java
-* This class stores a Card's information. Copied from assignment.
+* This class stores a Card's information. 
 * John Young
 *  
 * Advanced Java Programming - BCIS 3342 - 021

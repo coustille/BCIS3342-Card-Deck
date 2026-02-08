@@ -1,6 +1,6 @@
 /*************************************************************
 * Main.java
-* This class tests the Deck class. Copied from assignment.
+* This class tests the Deck class. 
 * John Young
 *  
 * Advanced Java Programming - BCIS 3342 - 021
